@@ -1,0 +1,3 @@
+display_name: “小说搜索导出”
+short_description: “搜索中文网络小说（耽美/言情），自动反爬下载全文，导出为带可点击目录的 Word 文档”
+default_prompt: “找一篇小说并导出为Word文档，章节信息在首页，点击就可以跳转到对应页数，文件要规整归档”
